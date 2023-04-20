@@ -1,0 +1,19 @@
+.allCardsContainer {
+  display: flex;
+  margin: 16px 16px 0px 16px;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.4rem;
+}
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+.cardHeader {
+  font-size: 2rem;
+
+  border-bottom: 1px solid black;
+}

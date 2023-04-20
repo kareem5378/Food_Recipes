@@ -1,0 +1,8 @@
+.errorContainer {
+  color: tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  margin-top: 350px;
+}

@@ -1,0 +1,233 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "ItalianFood",
+            "category_picture": "https://www.tastingtable.com/img/gallery/20-italian-dishes-you-need-to-try-at-least-once/intro-1643403830.webp",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Spaghetti Bolognese",
+                    "description": "This classic Italian dish is made with ground beef, tomato sauce, and spaghetti noodles.",
+                    "picture": "https://www.ocado.com/cmscontent/recipe_image_large/33362787.png?awuq",
+                    "ingredients": [
+                        "1 pound ground beef",
+                        "8 ounces spaghetti noodles",
+                        "1 can tomato sauce",
+                        "2 cloves garlic, minced",
+                        "1 onion, chopped",
+                        "1 teaspoon salt",
+                        "1/2 teaspoon black pepper",
+                        "2 tablespoons olive oil"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 2,
+                    "name": "Margherita Pizza",
+                    "description": "This traditional Italian pizza is topped with tomato sauce, mozzarella cheese, and fresh basil.",
+                    "picture": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pizza_Margherita_stu_spivack.jpg",
+                    "ingredients": [
+                        "1 pizza crust",
+                        "1 cup tomato sauce",
+                        "2 cups shredded mozzarella cheese",
+                        "1/4 cup fresh basil leaves",
+                        "1 tablespoon olive oil"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 3,
+                    "name": "Tiramisu",
+                    "description": "This classic Italian dessert features layers of espresso-soaked ladyfingers and a light, creamy filling made with mascarpone cheese and whipped cream.",
+                    "picture": "https://true-italian.com/wp-content/uploads/2022/05/tiramisu-1080x675.jpg",
+                    "ingredients": [
+                        "6 egg yolks",
+                        "3/4 cup white sugar",
+                        "2/3 cup milk",
+                        "1 1/4 cups heavy cream",
+                        "1/2 teaspoon vanilla extract",
+                        "8 ounces mascarpone cheese",
+                        "1/4 cup strong brewed coffee or espresso",
+                        "1 tablespoon rum",
+                        "24 ladyfingers"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "MexicanFood",
+            "category_picture": "https://hips.hearstapps.com/hmg-prod/images/delish-202104-birriatacos-058-1619806492.jpg?resize=480:*",
+            "recipes": [
+                {
+                    "id": 4,
+                    "name": "Chicken Enchiladas",
+                    "description": "These cheesy enchiladas are filled with seasoned chicken and topped with a spicy tomato sauce.",
+                    "picture": "https://th.bing.com/th/id/OIP.xG96SXegNyoQAZxWMCKfqgHaHa?pid=ImgDet&rs=1",
+                    "ingredients": [
+                        "1 pound chicken breasts, cooked and shredded",
+                        "12 corn tortillas",
+                        "2 cups shredded cheddar cheese",
+                        "1 can diced tomatoes with green chilies",
+                        "1 tablespoon chili powder",
+                        "1 teaspoon cumin",
+                        "1/2 teaspoon garlic powder",
+                        "1/4 teaspoon salt"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 5,
+                    "name": "Guacamole",
+                    "description": "This classic dip is made with mashed avocados, tomato, onion, and lime juice.",
+                    "picture": "https://th.bing.com/th/id/R.a6504b50d78aa16adc6e227e0f570f48?rik=MJ4nBQFX3X8FEQ&pid=ImgRaw&r=0",
+                    "ingredients": [
+                        "2 ripe avocados, mashed",
+                        "1 tomato, chopped",
+                        "1/4 cup chopped onion",
+                        "1 lime, juiced",
+                        "1/4 teaspoon salt"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "ChineseFood",
+            "category_picture": "https://assets.epicurious.com/photos/624d9590857fa7e509238b59/16:9/w_2560%2Cc_limit/RegionalChinese_HERO_033122_31320.jpg",
+            "recipes": [
+                {
+                    "id": 6,
+                    "name": "Kung Pao Chicken",
+                    "description": "This spicy stir-fry dish features chicken, peanuts, and vegetables in a savory sauce.",
+                    "picture": "https://th.bing.com/th/id/R.75b2fd7dcf09b2b9f88e0cd5e1bf51f0?rik=dBhlUkW1eJhVUg&pid=ImgRaw&r=0",
+                    "ingredients": [
+                        "1 pound boneless, skinless chicken breasts, cut into bite-size pieces",
+                        "1 red bell pepper, sliced",
+                        "1 green bell pepper, sliced",
+                        "1/2 cup roasted peanuts",
+                        "2 tablespoons vegetable oil",
+                        "3 cloves garlic, minced",
+                        "1 teaspoon ginger, minced",
+                        "1/4 teaspoon red pepper flakes",
+                        "1/4 cup soy sauce",
+                        "2 tablespoons rice vinegar",
+                        "2 tablespoons brown sugar",
+                        "1 tablespoon cornstarch",
+                        "1/4 cup green onions, chopped"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 7,
+                    "name": "Fried Rice",
+                    "description": "This classic Chinese dish is made with rice, vegetables, and protein, all stir-fried together with soy sauce and other seasonings.",
+                    "picture": "https://th.bing.com/th/id/R.3e79139b9fa733f337ab3bff912e3023?rik=PUrGLPEDxITUtA&pid=ImgRaw&r=0",
+                    "ingredients": [
+                        "3 cups cooked rice, chilled",
+                        "1 cup frozen mixed vegetables",
+                        "1/2 cup cooked shrimp",
+                        "2 eggs, beaten",
+                        "2 tablespoons vegetable oil",
+                        "1 tablespoon soy sauce",
+                        "1/4 teaspoon garlic powder",
+                        "1/4 teaspoon onion powder",
+                        "1/4 teaspoon black pepper"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "AmericanFood",
+            "category_picture": "https://images.dailyhive.com/20210211133035/43778550_1210961039057171_3138926888371144211_n.jpg",
+            "recipes": [
+                {
+                    "id": 8,
+                    "name": "Burger and Fries",
+                    "description": "This classic American meal features a juicy beef patty, topped with cheese and served with crispy French fries.",
+                    "picture": "https://th.bing.com/th/id/OIP.KnGqM2ijKs3vMhSdqxWI0AHaEy?pid=ImgDet&rs=1",
+                    "ingredients": [
+                        "1/2 pound ground beef",
+                        "1 hamburger bun",
+                        "1 slice cheddar cheese",
+                        "1/2 cup frozen French fries",
+                        "1 tablespoon vegetable oil"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 9,
+                    "name": "Mac and Cheese",
+                    "description": "This comforting dish is made with tender pasta and a creamy cheese sauce.",
+                    "picture": "https://th.bing.com/th/id/OIP.EAIuPWN5-oaxOcsnv3-eUwHaE8?pid=ImgDet&rs=1",
+                    "ingredients": [
+                        "8 ounces elbow macaroni",
+                        "2 tablespoons butter",
+                        "2 tablespoons all-purpose flour",
+                        "2 cups milk",
+                        "2 cups shredded cheddar cheese",
+                        "1/4 teaspoon salt",
+                        "1/4 teaspoon black pepper"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "IndianFood",
+            "category_picture": "https://mrhudsonexplores.com/wp-content/uploads/2022/02/Photo-Anil-Sharma.jpg",
+            "recipes": [
+                {
+                    "id": 10,
+                    "name": "Chicken Tikka Masala",
+                    "description": "This creamy, spicy Indian dish features tender chunks of chicken in a rich tomato-based sauce flavored with ginger, garlic, and a variety of aromatic spices.",
+                    "picture": "https://bing.com/th?id=OSK.0ed5222f88931f5ce43a13f4eb591595",
+                    "ingredients": [
+                        "1 pound boneless, skinless chicken breast, cut into small pieces",
+                        "1/2 cup plain yogurt",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon grated fresh ginger",
+                        "1 teaspoon garam masala",
+                        "1/2 teaspoon ground turmeric",
+                        "1/4 teaspoon cayenne pepper",
+                        "1/4 teaspoon salt",
+                        "2 tablespoons vegetable oil",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon grated fresh ginger",
+                        "1 teaspoon ground cumin",
+                        "1 teaspoon ground coriander",
+                        "1/2 teaspoon paprika",
+                        "1/4 teaspoon cayenne pepper",
+                        "1 can crushed tomatoes",
+                        "1/2 cup heavy cream",
+                        "1/4 cup chopped fresh cilantro"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 11,
+                    "name": "Palak Paneer",
+                    "description": "This classic Indian dish features cubes of paneer cheese in a creamy spinach sauce flavored with ginger, garlic, and aromatic spices.",
+                    "picture": "https://bing.com/th?id=OSK.4a2e83ccacf97848fb4cc52e650beeed",
+                    "ingredients": [
+                        "1/2 pound paneer cheese, cut into cubes",
+                        "2 tablespoons vegetable oil",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon grated fresh ginger",
+                        "1/2 teaspoon ground cumin",
+                        "1/2 teaspoon ground"
+                    ],
+                    "comments": []
+                }
+            ]
+        }
+    ]
+}

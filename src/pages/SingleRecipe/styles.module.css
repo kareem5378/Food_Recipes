@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.name {
+  font-size: 2rem;
+  color: gray;
+}
+.image {
+  height: 400px;
+  width: 300px;
+  padding-bottom: 8px;
+}
+.description {
+  padding: 12px;
+  font-size: 1.6rem;
+  text-align: center;
+  width: 400px;
+}
+.ingredients {
+  padding: 12px;
+  font-size: 1.4rem;
+  text-align: center;
+  width: 500px;
+  border-bottom: 1px red solid;
+  border-top: 1px red solid;
+  border-radius: 8px;
+}
+.inputBox {
+  padding: 4px;
+  font-size: 1rem;
+  margin: 3px;
+}
+.addButton {
+  margin: 3px;
+  padding: 4px;
+  font-size: 1rem;
+  background-color: aqua;
+}
+.addButton:hover {
+  background-color: aquamarine;
+}

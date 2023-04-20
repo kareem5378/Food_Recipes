@@ -1,0 +1,19 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.label {
+  font-size: 1.4rem;
+  padding: 5px;
+}
+.select {
+  padding: 5px;
+  font-size: 1rem;
+}
+.textArea {
+  min-width: 300px;
+  min-height: 200px;
+}
